@@ -37,7 +37,7 @@ echo -e "search blue.kundencontroller.de\noptions rotate\nnameserver 2a02:180:6:
 
 #### 脚本1：IPV4是WARP分配的IP，IPV6是VPS本地IP
 ```
-wget -qO- https://cdn.jsdelivr.net/gh/YG-tsj/EUserv-warp/warp4.sh|bash
+wget -qO- https://raw.githubusercontent.com/bobo677/EUserv-warp/main/warp4.sh
 ```
 #### 脚本2：IPV4与IPV6都是WARP分配的IP
 ```
